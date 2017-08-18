@@ -41,6 +41,7 @@
 	color: black;
 	font-size: 25px;
 	border-bottom: 1px solid #dfdfdf;
+
 }
 
 header {
@@ -80,5 +81,13 @@ h2 {
 
 .logo:link {
 	text-decoration: none;
+}
+
+.img-fluid {
+	height: 200px;
+}
+
+.about {
+	font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;;
 }
 
