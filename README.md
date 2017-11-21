@@ -1,4 +1,5 @@
 # README
 
-"pizza is awesome"
+
+"pepperoni pizza is awesome"
 - marco
